@@ -1,0 +1,12 @@
+{
+  "name": "Facebook",
+  "displayName": "Facebook",
+  "expo": {
+    "name": "Facebook",
+    "slug": "Facebook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
